@@ -1,0 +1,65 @@
+#login{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(40, 132, 252);  
+    font-size: 50px;
+    
+  }
+#mail{
+    width: 25%;  
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+#password{
+    width: 25%;  
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  
+}
+#button{
+    width: 25%;  
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  color:rgba(78, 168, 252, 0.808);
+  background-color: rgb(32, 127, 252);
+  color: white;
+  font-weight: 500;
+  font-family: "Luc-ida Console", "Courier New", monospace;
+  font-weight: 2000;
+  font-optical-sizing: 500px;
+
+}
+.card{
+  text-align: center;
+   margin: 100px;
+   width: 1250px;
+   box-shadow:black;
+  
+
+  }
+.container{
+     
+
+}
+a:hover{
+  color: cornflowerblue;
+}
+a{
+  color: blue;
+  
+}
+#button:hover{
+
+color: skyblue;
+} 
